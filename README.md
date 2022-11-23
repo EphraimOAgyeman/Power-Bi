@@ -1,5 +1,6 @@
-# PowerBi Projects
-This repo has all my completed power bi projects
-A stack up of all power bi content
+# Microsoft PowerBi 
 
-check out DAX formulas on this [repo]()
+All about Power Bi
+
+## Measures
+Measures are formulas that stores a value for visualization purposes
